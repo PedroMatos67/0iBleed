@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">iBleed</string>
+    <string name="title_home">Home</string>
+    <string name="title_perfil">Perfil</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="Nome">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="preencha_campos">Por favor, preencha todos os campos</string>
+    <string name="tipo_sanguineo">Tipo Sanguineo</string>
+    <string name="password">Password</string>
+    <string name="nome_completo">Nome Completo</string>
+    <string name="title_activity_profile_">Profile_Activity</string>
+    <string name="Perfil">Perfil</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="Email">Email</string>
+    <string name="title_activity_perfil">PerfilActivity</string>
+    <string name="iBleed">iBleed</string>
+    <string name="erro_inesperado">Erro</string>
+    <string name="Preencha_todos_os_campos">Preencha todos os campos</string>
+    <string name="tipo_sanguino_incorreto">Tipo sanguino incorreto</string>
+    <string name="Este_email_ja_existe_">Este email ja existe!</string>
+    <string name="entrar">Entrar</string>
+    <string name="email_ou_senha_incorreto">Email e/ou senha incorreto</string>
+    <string name="doador_ativo">Doador Ativo</string>
+    <string name="facebook_app_id">Facebook App ID</string>
+    <string name="facebook_login_protocol_achem">add late</string>
+</resources>
